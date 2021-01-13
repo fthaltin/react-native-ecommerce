@@ -1,0 +1,415 @@
+
+{
+  "header": {
+    "reportVersion": 1,
+    "event": "Allocation failed - JavaScript heap out of memory",
+    "trigger": "FatalError",
+    "filename": "report.20210107.155605.22072.0.001.json",
+    "dumpEventTime": "2021-01-07T15:56:05Z",
+    "dumpEventTimeStamp": "1610024165448",
+    "processId": 22072,
+    "cwd": "C:\\Users\\FATIH-ALTIN-PC\\Desktop\\DERS\\React-Native\\demo",
+    "commandLine": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "C:\\Users\\FATIH-ALTIN-PC\\Desktop\\DERS\\React-Native\\demo\\node_modules\\jest-worker\\build\\workers\\processChild.js"
+    ],
+    "nodejsVersion": "v12.13.0",
+    "wordSize": 64,
+    "arch": "x64",
+    "platform": "win32",
+    "componentVersions": {
+      "node": "12.13.0",
+      "v8": "7.7.299.13-node.12",
+      "uv": "1.32.0",
+      "zlib": "1.2.11",
+      "brotli": "1.0.7",
+      "ares": "1.15.0",
+      "modules": "72",
+      "nghttp2": "1.39.2",
+      "napi": "5",
+      "llhttp": "1.1.4",
+      "http_parser": "2.8.0",
+      "openssl": "1.1.1d",
+      "cldr": "35.1",
+      "icu": "64.2",
+      "tz": "2019a",
+      "unicode": "12.1"
+    },
+    "release": {
+      "name": "node",
+      "lts": "Erbium",
+      "headersUrl": "https://nodejs.org/download/release/v12.13.0/node-v12.13.0-headers.tar.gz",
+      "sourceUrl": "https://nodejs.org/download/release/v12.13.0/node-v12.13.0.tar.gz",
+      "libUrl": "https://nodejs.org/download/release/v12.13.0/win-x64/node.lib"
+    },
+    "osName": "Windows_NT",
+    "osRelease": "10.0.19042",
+    "osVersion": "Windows 10 Enterprise",
+    "osMachine": "x86_64",
+    "cpus": [
+      {
+        "model": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 69468000,
+        "nice": 0,
+        "sys": 59244500,
+        "idle": 510935203,
+        "irq": 13512718
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 47513531,
+        "nice": 0,
+        "sys": 24913859,
+        "idle": 567220281,
+        "irq": 1047171
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 96179984,
+        "nice": 0,
+        "sys": 38028015,
+        "idle": 505439687,
+        "irq": 854953
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 60550437,
+        "nice": 0,
+        "sys": 27461578,
+        "idle": 551635609,
+        "irq": 640187
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 88198421,
+        "nice": 0,
+        "sys": 35586375,
+        "idle": 515862906,
+        "irq": 809562
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 53659296,
+        "nice": 0,
+        "sys": 26394343,
+        "idle": 559594062,
+        "irq": 577906
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 78600453,
+        "nice": 0,
+        "sys": 41859390,
+        "idle": 519187812,
+        "irq": 915531
+      },
+      {
+        "model": "Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 60033203,
+        "nice": 0,
+        "sys": 26815640,
+        "idle": 552798843,
+        "irq": 534125
+      }
+    ],
+    "networkInterfaces": [
+      {
+        "name": "Wi-Fi 2",
+        "internal": false,
+        "mac": "f8:28:19:7a:2a:49",
+        "address": "fe80::8a4:657b:f7f1:5d6",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 12
+      },
+      {
+        "name": "Wi-Fi 2",
+        "internal": false,
+        "mac": "f8:28:19:7a:2a:49",
+        "address": "192.168.1.102",
+        "netmask": "255.255.255.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "family": "IPv4"
+      }
+    ],
+    "host": "NBT-FATIH-ALTIN"
+  },
+  "javascriptStack": {
+    "message": "No stack.",
+    "stack": [
+      "Unavailable."
+    ]
+  },
+  "nativeStack": [
+    {
+      "pc": "0x00007ff60a161389",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a1657cc",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a164778",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a25332b",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60aa56f4e",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60aa3ef91",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a90c85c",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a8e8853",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a8e6b4b",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a9121cd",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a913ed4",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a909fc3",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a908794",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a929a65",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60a6960c7",
+      "symbol": ""
+    },
+    {
+      "pc": "0x00007ff60ae82c6d",
+      "symbol": ""
+    },
+    {
+      "pc": "0x000000592101b3c0",
+      "symbol": ""
+    }
+  ],
+  "javascriptHeap": {
+    "totalMemory": 172163072,
+    "totalCommittedMemory": 172163072,
+    "usedMemory": 130541744,
+    "availableMemory": 2057783344,
+    "memoryLimit": 2197815296,
+    "heapSpaces": {
+      "read_only_space": {
+        "memorySize": 262144,
+        "committedMemory": 262144,
+        "capacity": 261872,
+        "used": 32296,
+        "available": 229576
+      },
+      "new_space": {
+        "memorySize": 33554432,
+        "committedMemory": 33554432,
+        "capacity": 16759808,
+        "used": 6749360,
+        "available": 10010448
+      },
+      "old_space": {
+        "memorySize": 118075392,
+        "committedMemory": 118075392,
+        "capacity": 105280992,
+        "used": 104949760,
+        "available": 331232
+      },
+      "code_space": {
+        "memorySize": 2523136,
+        "committedMemory": 2523136,
+        "capacity": 1493600,
+        "used": 1493600,
+        "available": 0
+      },
+      "map_space": {
+        "memorySize": 1314816,
+        "committedMemory": 1314816,
+        "capacity": 971760,
+        "used": 971760,
+        "available": 0
+      },
+      "large_object_space": {
+        "memorySize": 16199680,
+        "committedMemory": 16199680,
+        "capacity": 16160736,
+        "used": 16160736,
+        "available": 0
+      },
+      "code_large_object_space": {
+        "memorySize": 49152,
+        "committedMemory": 49152,
+        "capacity": 3552,
+        "used": 3552,
+        "available": 0
+      },
+      "new_large_object_space": {
+        "memorySize": 184320,
+        "committedMemory": 184320,
+        "capacity": 16759808,
+        "used": 180680,
+        "available": 16579128
+      }
+    }
+  },
+  "resourceUsage": {
+    "userCpuSeconds": 17.515,
+    "kernelCpuSeconds": 1.375,
+    "cpuConsumptionPercent": 30.4677,
+    "maxRss": 207085568,
+    "pageFaults": {
+      "IORequired": 166897,
+      "IONotRequired": 0
+    },
+    "fsActivity": {
+      "reads": 1425,
+      "writes": 174
+    }
+  },
+  "libuv": [
+  ],
+  "environmentVariables": {
+    "ALLUSERSPROFILE": "C:\\ProgramData",
+    "ANDROID_HOME": "C:\\Users\\FATIH-ALTIN-PC\\AppData\\Local\\Android\\Sdk",
+    "APPDATA": "C:\\Users\\FATIH-ALTIN-PC\\AppData\\Roaming",
+    "BABEL_ENV": "development",
+    "ChocolateyInstall": "C:\\ProgramData\\chocolatey",
+    "ChocolateyLastPathUpdate": "132544101408657477",
+    "CommonProgramFiles": "C:\\Program Files\\Common Files",
+    "CommonProgramFiles(x86)": "C:\\Program Files (x86)\\Common Files",
+    "CommonProgramW6432": "C:\\Program Files\\Common Files",
+    "COMPUTERNAME": "NBT-FATIH-ALTIN",
+    "ComSpec": "C:\\WINDOWS\\system32\\cmd.exe",
+    "dp0": "C:\\Users\\FATIH-ALTIN-PC\\Desktop\\DERS\\React-Native\\demo\\node_modules\\.bin\\",
+    "DriverData": "C:\\Windows\\System32\\Drivers\\DriverData",
+    "FORCE_COLOR": "1",
+    "FPS_BROWSER_APP_PROFILE_STRING": "Internet Explorer",
+    "FPS_BROWSER_USER_PROFILE_STRING": "Default",
+    "HOMEDRIVE": "C:",
+    "HOMEPATH": "\\Users\\FATIH-ALTIN-PC",
+    "JAVA_HOME": "C:\\Program Files\\OpenJDK\\openjdk-8u275-b01",
+    "LOCALAPPDATA": "C:\\Users\\FATIH-ALTIN-PC\\AppData\\Local",
+    "LOGONSERVER": "\\\\NBT-FATIH-ALTIN",
+    "NODE_EXE": "C:\\Program Files\\nodejs\\\\node.exe",
+    "NPM_CLI_JS": "C:\\Program Files\\nodejs\\\\node_modules\\npm\\bin\\npm-cli.js",
+    "NPM_PREFIX_NPX_CLI_JS": "C:\\Users\\FATIH-ALTIN-PC\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npx-cli.js",
+    "NPX_CLI_JS": "C:\\Program Files\\nodejs\\\\node_modules\\npm\\bin\\npx-cli.js",
+    "NUMBER_OF_PROCESSORS": "8",
+    "NVM_HOME": "C:\\Users\\FATIH-ALTIN-PC\\AppData\\Roaming\\nvm",
+    "NVM_SYMLINK": "C:\\Program Files\\nodejs",
+    "OneDrive": "C:\\Users\\FATIH-ALTIN-PC\\OneDrive",
+    "OS": "Windows_NT",
+    "Path": "C:\\Users\\FATIH-ALTIN-PC\\Desktop\\DERS\\React-Native\\demo\\node_modules\\.bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Users\\FATIH-ALTIN-PC\\AppData\\Roaming\\nvm;C:\\Program Files\\nodejs;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\130\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\140\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\140\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\140\\DTS\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\150\\DTS\\Binn\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\OpenJDK\\openjdk-8u275-b01\\bin;C:\\Users\\FATIH-ALTIN-PC\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\FATIH-ALTIN-PC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\FATIH-ALTIN-PC\\.dotnet\\tools;C:\\Users\\FATIH-ALTIN-PC\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\FATIH-ALTIN-PC\\AppData\\Roaming\\nvm;C:\\Program Files\\nodejs;C:\\Users\\FATIH-ALTIN-PC\\AppData\\Local\\Yarn\\bin;C:\\Users\\FATIH-ALTIN-PC\\AppData\\Roaming\\npm;C:\\Users\\FATIH-ALTIN-PC\\AppData\\Local\\Android\\Sdk\\platform-tools;",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JSE;.WSF;.WSH;.MSC",
+    "PROCESSOR_ARCHITECTURE": "AMD64",
+    "PROCESSOR_IDENTIFIER": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+    "PROCESSOR_LEVEL": "6",
+    "PROCESSOR_REVISION": "9e09",
+    "ProgramData": "C:\\ProgramData",
+    "ProgramFiles": "C:\\Program Files",
+    "ProgramFiles(x86)": "C:\\Program Files (x86)",
+    "ProgramW6432": "C:\\Program Files",
+    "PROMPT": "$P$G",
+    "PSModulePath": "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules;C:\\Program Files (x86)\\Microsoft SQL Server\\140\\Tools\\PowerShell\\Modules\\",
+    "PUBLIC": "C:\\Users\\Public",
+    "SESSIONNAME": "Console",
+    "SystemDrive": "C:",
+    "SystemRoot": "C:\\WINDOWS",
+    "TEMP": "C:\\Users\\FATIH-~1\\AppData\\Local\\Temp",
+    "TMP": "C:\\Users\\FATIH-~1\\AppData\\Local\\Temp",
+    "USERDOMAIN": "NBT-FATIH-ALTIN",
+    "USERDOMAIN_ROAMINGPROFILE": "NBT-FATIH-ALTIN",
+    "USERNAME": "FATIH-ALTIN-PC",
+    "USERPROFILE": "C:\\Users\\FATIH-ALTIN-PC",
+    "windir": "C:\\WINDOWS",
+    "_prog": "node"
+  },
+  "sharedObjects": [
+    "C:\\Program Files\\nodejs\\node.exe",
+    "C:\\WINDOWS\\SYSTEM32\\ntdll.dll",
+    "C:\\WINDOWS\\System32\\KERNEL32.DLL",
+    "C:\\WINDOWS\\System32\\KERNELBASE.dll",
+    "C:\\WINDOWS\\System32\\WS2_32.dll",
+    "C:\\WINDOWS\\System32\\RPCRT4.dll",
+    "C:\\WINDOWS\\System32\\ADVAPI32.dll",
+    "C:\\WINDOWS\\SYSTEM32\\dbghelp.dll",
+    "C:\\WINDOWS\\System32\\msvcrt.dll",
+    "C:\\WINDOWS\\System32\\ucrtbase.dll",
+    "C:\\WINDOWS\\System32\\sechost.dll",
+    "C:\\WINDOWS\\System32\\USER32.dll",
+    "C:\\WINDOWS\\System32\\win32u.dll",
+    "C:\\WINDOWS\\System32\\GDI32.dll",
+    "C:\\WINDOWS\\System32\\gdi32full.dll",
+    "C:\\WINDOWS\\System32\\msvcp_win.dll",
+    "C:\\WINDOWS\\System32\\PSAPI.DLL",
+    "C:\\WINDOWS\\System32\\CRYPT32.dll",
+    "C:\\WINDOWS\\System32\\bcrypt.dll",
+    "C:\\WINDOWS\\SYSTEM32\\IPHLPAPI.DLL",
+    "C:\\WINDOWS\\SYSTEM32\\USERENV.dll",
+    "C:\\WINDOWS\\SYSTEM32\\WINMM.dll",
+    "C:\\WINDOWS\\System32\\IMM32.DLL",
+    "C:\\WINDOWS\\SYSTEM32\\powrprof.dll",
+    "C:\\WINDOWS\\SYSTEM32\\UMPDC.dll",
+    "C:\\WINDOWS\\system32\\uxtheme.dll",
+    "C:\\WINDOWS\\System32\\combase.dll",
+    "C:\\WINDOWS\\system32\\mswsock.dll",
+    "C:\\WINDOWS\\SYSTEM32\\kernel.appcore.dll",
+    "C:\\WINDOWS\\System32\\bcryptprimitives.dll",
+    "C:\\WINDOWS\\system32\\napinsp.dll",
+    "C:\\WINDOWS\\system32\\pnrpnsp.dll",
+    "C:\\WINDOWS\\system32\\wshbth.dll",
+    "C:\\WINDOWS\\system32\\NLAapi.dll",
+    "C:\\WINDOWS\\SYSTEM32\\DNSAPI.dll",
+    "C:\\WINDOWS\\System32\\NSI.dll",
+    "C:\\WINDOWS\\System32\\winrnr.dll",
+    "C:\\WINDOWS\\SYSTEM32\\dhcpcsvc6.DLL",
+    "C:\\WINDOWS\\SYSTEM32\\dhcpcsvc.DLL"
+  ]
+}

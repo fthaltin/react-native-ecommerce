@@ -1,0 +1,338 @@
+[0112/092720.225:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamiyor. (0x3)
+[0112/161155.044:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff7cbd60000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.044:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0112/161155.044:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbf50000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.044:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0112/161155.044:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcada0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.044:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0112/161155.044:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc99f0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.044:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0112/161155.044:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb6bd0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.044:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome_elf.dll
+[0112/161155.044:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc2d00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.044:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0112/161155.044:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb300000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.044:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0112/161155.044:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb4c0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.044:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbe60000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb1d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb467f0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbca1e0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcac70000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc98d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9dd0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0fd80000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9ed0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9690000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbaf340000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc8b20000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7db0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb94b10000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.045:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0112/161155.045:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb0f00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9580000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffba0e00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7ac0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7530000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc22d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc52b0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9540000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9280000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9970000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0112/161155.046:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9050000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.046:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0112/161155.056:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff7cbd60000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.056:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0112/161155.056:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbf50000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.056:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0112/161155.056:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcada0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.056:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0112/161155.056:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc99f0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.056:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0112/161155.056:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb6bd0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.056:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome_elf.dll
+[0112/161155.056:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc2d00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.056:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0112/161155.056:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb300000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.056:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0112/161155.056:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb4c0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbe60000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb1d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb467f0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbca1e0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcac70000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc98d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9dd0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0fd80000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9ed0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9690000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbaf340000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc8b20000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7db0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb94b10000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb0f00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9580000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.057:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0112/161155.057:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffba0e00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7ac0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7530000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc22d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc52b0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9540000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9280000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9970000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9050000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff7cbd60000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbf50000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0112/161155.058:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcada0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.058:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc99f0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb6bd0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome_elf.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc2d00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb300000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb4c0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbe60000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcb1d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb467f0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.141\chrome.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbca1e0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcac70000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc98d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0112/161155.059:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9dd0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.059:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0fd80000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9ed0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9690000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbaf340000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc8b20000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7db0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb94b10000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\UIAutomationCore.DLL
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb0f00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9580000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffba0e00000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7ac0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb7530000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc22d0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.060:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0112/161155.060:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc52b0000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.061:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0112/161155.061:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9540000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.061:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0112/161155.061:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9280000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.061:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0112/161155.061:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9970000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.061:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0112/161155.061:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9050000 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.061:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfd5f8000 of 32768 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfddfe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfe5fe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfedfe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dff5fd000 of 12288 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dffdfe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d807fe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d80ffe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d817fd000 of 12288 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d81ffe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d827fe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d82ffe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d837fe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d83ffe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d847fe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7d84ffe000 of 8192 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfcc9b000 of 852 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfcc9c000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfcc9e000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfcca0000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfcca2000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfcca4000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfcca6000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfcca8000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccaa000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.068:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccac000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccae000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccb0000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccb2000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccb4000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccb6000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccb8000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7dfccba000 of 6024 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b0fe0 of 18002 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b5640 of 1012 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b5c88 of 118 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b5d00 of 722 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b5fd4 of 118 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b604c of 102 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b60c0 of 58 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b61c0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b6350 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b6510 of 126 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.069:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b6a10 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b6ba0 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b6d60 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b7020 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b71b0 of 68 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b8270 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6b83a0 of 154 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6ba9e0 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6bab40 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6bacd0 of 60 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6c6a70 of 80 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cc9a0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6ccad0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cd0d0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cf530 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cf660 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cf790 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cf8c0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.070:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cf9f0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cfb20 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cfc50 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cfd80 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cfeb0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6cffe0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d0110 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d0240 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d0370 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d30a0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d32c0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d3610 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d5d20 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d5e50 of 146 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d62b0 of 60 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6300 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6350 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6440 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d64e0 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6530 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6580 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d66c0 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.071:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6710 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6760 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6850 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d68a0 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6a80 of 60 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6ad0 of 66 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6bc0 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6da0 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6e40 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6e90 of 62 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6ee0 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6f30 of 60 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d6f80 of 58 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d9560 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6d9690 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6df550 of 80 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6e0b60 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6e0dc0 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6e1610 of 132 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6f24e0 of 60 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f6f5910 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f72a830 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f72adb0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.072:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f72b6b0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f73b060 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f7528b0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f759970 of 712 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f76b1a0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f7966d0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de0f8f0c40 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de115e0000 of 384 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de115e72c0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de115ea2e0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.073:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de115eb580 of 712 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de115fd910 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de115fe5d0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de11627b50 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de11635700 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de11639f20 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de116c84d0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de1198bf58 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de119a66c0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1de11a2f8b0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb497205b0 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb49f561cf of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9050000 of 384 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc9c7e748 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcadc4a50 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.074:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbfebfb4 of 672 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.075:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbfec5b4 of 512 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.075:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcbfef924 of 608 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.075:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcc080a00 of 18 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.075:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcc0b54f8 of 40 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.075:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcc0b5978 of 48 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.075:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcc0bb4c0 of 64 bytes failed: ReadProcessMemory veya WriteProcessMemory isteginin sadece bir parçasi tamamlandi. (0x12B)
+[0112/161155.079:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Sona ermekte olan bir isleme erismeye çalisildi. (0xc000010a)
